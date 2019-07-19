@@ -1,0 +1,20 @@
+ProjetoII
+Identificação dos autores (nomes e RAs) e do trabalho
+Lucas Silva de Jesus	19372	
+Pedro Candido 	19382	
+
+Introdução - Descrever objetivos do trabalho
+Criar três aplicaçoes windows Form, uma delas será a Janela do Jogo da Forca,
+outra uma janela para cadastro de palavras e a ultima seria uma Janela Principal que chamaria 
+os outros dois forms.
+
+
+-Descreva Datas,Horas e Tempo de Desenvolvimento:
+
+Iniciou-se: 
+
+10/06: Começamos a criar a Janela Principal com seus respectivos botoes e funcoes.
+12/06: Usamos como base a janela criada em aula dos Funcionarios para criar o cadastro de palavras
+tivemos alguns problemas em fazer com que ele busca-se uma palavra ou ordenasse mas com a ajuda da monitora Isabela 
+conseguimos desenvolver.
+

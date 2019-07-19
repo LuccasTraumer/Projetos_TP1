@@ -1,0 +1,56 @@
+Texto do ExercicioD o Nome é teste.txt
+
+Identificação dos autores (nomes e RAs) e do trabalho
+Lucas Silva de Jesus	19372	
+Pedro Candido 	19382	
+
+Introdução - Descrever objetivos do trabalho
+Aprender e Solucionar os Problemas Solicitados.
+
+
+-Descreva Datas,Horas e Tempo de Desenvolvimento:
+
+ExercicioA:
+15/04/2019 - 17h30 as 19h - 1h30m
+16/04/2019 - 17h30 as 19h - 1h30m
+15/04/2019 - 16h35 as 18h15 - 1h25m
+ExercicioB:
+20/04/2019 - 10h30 as 17h - 7h (com Intervalos)
+
+ExercicioC:
+
+
+ExercicioD:
+22/04/2019 - 17h30 as 19h - 1h30m
+25/04/2019 - 17h30 as 19h - 1h30m
+27/04/2019 - 10h10 as 12h15- 2h05m
+
+
+-Descreva erros encontrados e Soluções Aplicadas:
+
+ExercicioA:
+Erros: Fazer o Calculo no Metodo e Mostrar o Resultado
+Soluçoes: Criar um Metodo que calcula e Retorna o Valor para outro metodo , que mostra a Solução
+
+ExercicioB:
+Erros: Fazer o valor ser mostra na Ordem contraria.(estava tentando fazer isso no metodo)
+Soluçoes:Inverter o valor no Program.
+
+ExercicioD:
+Erros:Fazer com que no momento em que trocasse a classe/Periodo do aluno, ele zerasse a Qnts de Notas
+Soluçoes:
+
+-Descreva Dificuldades Encontradas: Em Descrever a Logica/raciocinio
+
+ExercicioA: Em fazer o metodo que calculasse os dois valores.
+
+ExercicioD: Em ter que criar tantas condiçoes e Metodos, sem que um interfirissem no outro
+
+
+-Descreva o Auxilio da Monitoria: 
+Monitores: João, Isabela e Gustavo.
+ExercicioA:João e Isabela, ajudaram a contruir a logica do exercicio, e dando algumas dicas de como executalas.
+
+ExercicioD: Auxilio do João,Gustavo e Isabela, auxiliaram a criar metodos,condiçoes e Leitura do Arquivo.
+E em alguns exercicios ajuda dos colegas de Classe que em Monitoria se auxiliaram
+Principalmente Tiago,Marcos,Pedro Otavio, Giovana, Victoria e Leonardo.

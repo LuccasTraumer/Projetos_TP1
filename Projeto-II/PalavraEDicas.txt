@@ -1,0 +1,96 @@
+visual studio  Programa para programa��o da microsoft                                                              
+chico          Professor de TP do Cotuca                                                                           
+the beatles    Banda mais famosa do mundo                                                                          
+�culos         Usado por pessoas com problemas de vis�o                                                            
+freddie mercuryVocalista da banda Queen                                                                            
+ronaldinho     Conhecido como bruxo no futebol                                                                     
+malala         A pessoa mais jovem a conquistar um premio nobel                                                    
+kanye west     Rapper famoso nos EUA casado com kim kardashian                                                     
+stece jobs     Apple e Pixar                                                                                       
+elon musk      Fundador da Tesla                                                                                   
+bill gates     Fundador da Microsoft                                                                               
+naruto         Personagem principal de um dos animes mais famosos do mundo                                         
+bear grylls    Apresentador do programa � prova de tudo                                                            
+celular        Bem material que � muito importante na vida humana e a maioria das pessoas n�o larga                
+dinheiro       Bem material mais valorizado pelos seres humanos                                                    
+racionais mc's Grupo de Rap brasileiro, surguiu nos anos 80, uma dos maiores grupos da musica brasileira           
+djonga         Cantor de Rap, surgiu nos anos 2000 (SENSA��O), conquistou por 3 anos seguidos o Album do Ano       
+vingadores     Filme de um grupo de super-her�is da Marvel                                                         
+python         Uma Linguegem de Programa��o e tamb�m um especie de cobra, muito usada na Analise de Dados          
+usp            Uma das melhores universidades do Pais, situada em uma das maiores capitais do Pais                 
+unicamp        Uma das melhores universidades do Brasil, contem o unico acelerador de Particulas da America Latina 
+bolsonaro      Presidente Racista,Homofobico,Machista e sem educa��o, E falador de merda                           
+cotuca         Col�gio Tecnico de Campinas, afiliada a Universidade de Campinas (UNICAMP)                          
+lucas          Um dos nomes mais usados no Brasil, que deriva do latim tendo significado com luminoso ou iluminado 
+dp             Quando voce fica retido em uma ou mais materias, tenho medo inclusive, Ficar de dependencia         
+negro drama    Musica do Racionais mc's que do album Nada como um dia apos o outro dia, critica racial no titulo   
+laura          Um dos nomes femininos mais usados no Brasil, tendo como significado Vitoriosa ou Triunfadora       
+olho de tigre  Uma das Musicas do djonga, que faz critica ao atual presidente do Pais e Critica aos machistas e rac
+ifood          Aplicativo de entrega e Pedido de comida                                                            
+spotify        Aplicativo de musica pago mais conhecido e usado no mundo                                           
+java           Linguegem de Programa��o usada para desenvolver diversas aplica��es                                 
+oitavo anjo    Musica do Grupo 509-E, formado por detentos nos anos 90, tendo como principal vocalista deXter      
+509-E          Grupo formado por Detentos nos anos 90, que ganhou grande relevancia no cenario do Rap              
+deXter-509-E   Ex-detento que fez carreira no Rap, tendo um grupo enquanto estava preso,e sobrevivente do Carandiru
+carandiru      Um massacre que occoreu em 1992, onde foram morto 111 detentos,iniciada no Pavil�o 9                
+vila brandina  Um dos bairros com maior ponto de trafico de drogas de Campinas nos anos 90 e 2000,Prox. Iguatemi   
+mano brown     Um dos Vocalista do Grupo de Rap Racionais mc's                                                     
+tabata amaral  Uma deputada federal, formada em Harvard em Ciencias Politicas e Astrofisica                        
+2pac           Cantor de rap dos anos 90 mais famosos, assassinado a tiros, West cost, NOTORIUS BIG                
+supercombo     Banda brasileira de rock, teve destaque em um programa de talento, uma das musicas � Amianto        
+vikings        Invadiram as terras europeias em meados do s�culo VIII                                              
+kennedy        Sobre nome do presidente americano que foi morto em um carro, a c�u aberto                          
+lebron james   Jogador de basquete que ir� estrelar Space Jam 2                                                    
+stan lee       Participou da cria��o da maioria dos personagens da Marvel                                          
+computador     Maquina usada para resolver problemas                                                               
+alan turing    Pai da ci�ncia da computa��o                                                                        
+calculadora    Maquina para resolver contas matem�ticas                                                            
+ponte preta    Time de futebol mais antigo do Brasil                                                               
+nu             Despido                                                                                             
+rupia          Moeda usada na �ndia                                                                                
+p�o            Feito de trigo                                                                                      
+esmeralda      Pedra preciosa que tem uma colora��o verde                                                          
+marvel         Empresa de entretenimento conhecida principalmente pelas HQs, filmes e s�ries                       
+netflix        Site/Aplicativo de Streaming de Series e Filmes                                                     
+ingl�s         L�ngua mais falada no mundo                                                                         
+brasil         Maior pa�s da Am�rica Latina                                                                        
+one push man   Anime e tamb�m satira de herois, considerado o homem de um soco s�                                  
+jiu-jitsu      Arte marcial que surgiu no jap�o, mas mudou de nascionalidade depois de grande mudan�a no Brasil    
+familia gracie Familia que mudou a historia do jiu-jitsu e fundadores do ufc                                       
+oakley         Marca de Produtos para esportes de neve e motoqueiros, Produtos mais conhecidos Oculos e Tenis      
+r�ssia         Pa�s bem grande que est� em dois continentes ao mesmo tempo                                         
+dicion�rio     Livro com o significado de v�rias palavras                                                          
+it�lia         Pa�s com formato semelhante ao de uma bota                                                          
+prato          Onde colocamos a comida para comer                                                                  
+talher         Utilizamos para comer a comida                                                                      
+cola           Serve para colar as coisas                                                                          
+cama           Local onde dormimos                                                                                 
+noite          Per�odo ap�s o sol se p�r, com a presen�a da Lua                                                    
+lua            Sat�lite natural da Terra                                                                           
+via L�ctea     Gal�xia onde se encontra o nosso Sistema Solar                                                      
+medo           Sentimento de inseguran�a                                                                           
+pneu           A maioria dos meios de trasnporte precisa para se locomover                                         
+trem           Meio de transporte que tem uma locomotiva e v�rios vag�es                                           
+nariz          �rg�o do ser humano que expira e inspira                                                            
+m�o            Org�o respons�vel pelo tato                                                                         
+olho           �rg�o respons�vel pela vis�o                                                                        
+orelha         �rg�o respons�vel pela audi��o                                                                      
+mesa           Local de apoio para v�rias coisas                                                                   
+cadeira        Local onde n�s sentamos                                                                             
+anel           Usado no dedo, geralmente simboliza relacionamentos                                                 
+le�o           Animal considerado rei da selva                                                                     
+miguel do carmoPrimeiro jogador negro no futebol brasileiro                                                        
+cruzeiro do sulConstela��o que forma uma cruz                                                                      
+michael jacksonRei do pop                                                                                          
+hamlet         Obra de literatura cl�ssica inglesa                                                                 
+sonic          Personagem s�mbolo da SEGA                                                                          
+darth vader    Vil�o mais famoso da s�rie Star Wars                                                                
+indiana jones  Cobras, porque tinham que ser cobras                                                                
+harrison ford  Indiana Jones e Han Solo                                                                            
+grinch         Odeia o natal                                                                                       
+batman         Inimigo do Coringa                                                                                  
+usain bolt     Homem mais r�pido do mundo                                                                          
+c�sar cielo    Nadador brasileiro mais r�pido do mundo                                                             
+marie curie    �nica mulher a ganhar o premio nobel duas vezes                                                     
+feliz          Traumer                                                                                             
+LuccasTraumer  Desenvolveu o software                                                                              

@@ -1,0 +1,14 @@
+C:\Users\User\Documents\ProjetoChico\ProjetoChico\ProjetoChico\bin\Debug\ProjetoChico.exe.config
+C:\Users\User\Documents\ProjetoChico\ProjetoChico\ProjetoChico\bin\Debug\ProjetoChico.exe
+C:\Users\User\Documents\ProjetoChico\ProjetoChico\ProjetoChico\bin\Debug\ProjetoChico.pdb
+C:\Users\User\Documents\ProjetoChico\ProjetoChico\ProjetoChico\obj\Debug\ProjetoChico.csprojAssemblyReference.cache
+C:\Users\User\Documents\ProjetoChico\ProjetoChico\ProjetoChico\obj\Debug\ProjetoChico.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ProjetoChico\ProjetoChico\ProjetoChico\obj\Debug\ProjetoChico.exe
+C:\Users\User\Documents\ProjetoChico\ProjetoChico\ProjetoChico\obj\Debug\ProjetoChico.pdb
+C:\Users\User\Documents\GitHub\Projetos\ProjetoChicoComentarios\ProjetoChico\bin\Debug\ProjetoChico.exe.config
+C:\Users\User\Documents\GitHub\Projetos\ProjetoChicoComentarios\ProjetoChico\bin\Debug\ProjetoChico.exe
+C:\Users\User\Documents\GitHub\Projetos\ProjetoChicoComentarios\ProjetoChico\bin\Debug\ProjetoChico.pdb
+C:\Users\User\Documents\GitHub\Projetos\ProjetoChicoComentarios\ProjetoChico\obj\Debug\ProjetoChico.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Projetos\ProjetoChicoComentarios\ProjetoChico\obj\Debug\ProjetoChico.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Projetos\ProjetoChicoComentarios\ProjetoChico\obj\Debug\ProjetoChico.exe
+C:\Users\User\Documents\GitHub\Projetos\ProjetoChicoComentarios\ProjetoChico\obj\Debug\ProjetoChico.pdb
